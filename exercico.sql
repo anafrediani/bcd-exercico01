@@ -1,4 +1,7 @@
+/*projeto atualizado*/
+;
 create database tarefa_ana;
+
 use tarefa_ana;
 create table consultoria(
 num_con bigint not null auto_increment,
